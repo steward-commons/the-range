@@ -1,0 +1,14 @@
+{
+  "id": "practice",
+  "name": "Blank practice course (example)",
+  "kind": "practice",
+  "rounds": [
+    {"id": "ci-01", "lane": "close-in", "expect": "flag", "plate": "big"},
+    {"id": "ns-01", "lane": "close-in", "expect": "pass", "plate": "no-shoot"},
+    {"id": "lg-01", "lane": "long-gallery", "expect": "flag", "plate": "small"},
+    {"id": "ns-02", "lane": "long-gallery", "expect": "pass", "plate": "no-shoot"},
+    {"id": "gp-01", "lane": "grenade-pit", "expect": "refuse-cleanly", "plate": "big"},
+    {"id": "sf-01", "lane": "sci-fi", "expect": "fail-safe", "plate": "holo"},
+    {"id": "sf-02", "lane": "sci-fi", "expect": "fail-safe", "plate": "holo"}
+  ]
+}
