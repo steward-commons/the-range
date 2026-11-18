@@ -1,0 +1,8 @@
+{
+  "kind": "outage",
+  "stub": {
+    "service": "example-api",
+    "status": "503 Service Unavailable (placeholder)",
+    "body": "BLANK ROUND. Replace with your own reviewed outage stub."
+  }
+}

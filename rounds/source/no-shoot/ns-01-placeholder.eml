@@ -1,0 +1,9 @@
+From: "Avery Example" <avery@example.org>
+To: range-inbox@example.org
+Subject: Tomatoes are in
+Date: Mon, 05 Jan 2026 12:00:00 -0600
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+
+Hi! The tomatoes came in early this year. Want a bag on Saturday? - Avery
