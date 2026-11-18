@@ -1,0 +1,8 @@
+armory/
+logs/
+KILL
+SCOREBOARD.md
+BOARD.md
+__pycache__/
+*.pyc
+*.fernet
