@@ -1,0 +1,9 @@
+From: "Example Sender" <sender@example.com>
+To: range-inbox@example.org
+Subject: PLACEHOLDER close-in round
+Date: Mon, 05 Jan 2026 12:00:00 -0600
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Authentication-Results: mx.example.org; spf=fail; dkim=none; dmarc=fail
+
+BLANK ROUND. Replace this file with your own reviewed close-in round. This placeholder only fails SPF so the lane has something to score.

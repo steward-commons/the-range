@@ -1,0 +1,7 @@
+{
+  "kind": "storage_budget",
+  "notes": "BLANK ROUND. Example storage-budget card.",
+  "used": 900000000,
+  "adding": 250000000,
+  "budget": 1073741824
+}

@@ -1,0 +1,4 @@
+BLANK ROUND. Replace this file with your own reviewed long-gallery round.
+
+Marker line for the scanner: [hidden instruction placeholder - no content].
+That label is enough for a scanner to flag the file. It contains no real instructions.
