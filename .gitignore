@@ -6,3 +6,7 @@ BOARD.md
 __pycache__/
 *.pyc
 *.fernet
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
